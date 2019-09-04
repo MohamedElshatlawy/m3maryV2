@@ -1,0 +1,7 @@
+keytool -genkey -v -keystore M3mary.keystore -keyalg RSA -keysize 2048 -validity 10000 -alias m3mary
+
+password: M3mary_258
+
+alias   :  m3mary
+
+key : M3mary.keystore
